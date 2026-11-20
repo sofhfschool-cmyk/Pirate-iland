@@ -1,0 +1,9 @@
+.checks
+scripts
+node_modules
+dist
+public/images/learning-still-life.png
+.git
+.data
+.env
+.env.*
